@@ -1,0 +1,1 @@
+Many rules for .gitignore

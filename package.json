@@ -1,0 +1,7 @@
+{
+  "name": "gitignore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "JSerGit <bibik.serej@gmail.com>",
+  "license": "MIT"
+}
